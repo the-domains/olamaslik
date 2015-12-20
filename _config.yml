@@ -1,0 +1,28 @@
+name: olamaslik
+favicon: null
+layout_spectrum: 0.6021335027180612
+typography_spectrum: 0.7010462994221598
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1721447661984712
+  lightness: 0.6073468590620905
+  saturation: 0.0738027966581285
+  rhythmicContrast: 0.5614949162118137
+purpose: []
